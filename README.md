@@ -72,9 +72,6 @@ Clarifies scope of the system.
 Helps visualize user interactions.
 
 Ensures completeness of requirements.
-requirement-analysis/
-│── README.md
-│── alx-booking-uc.png
 
 ### Acceptance Criteria
 
